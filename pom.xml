@@ -53,6 +53,12 @@
 			<artifactId>cucumber-junit</artifactId>
 			<version>${cucumber.version}</version>
 		</dependency>
+	       
+		<dependency>
+			<groupId>net.masterthought</groupId>
+			<artifactId>cucumber-reporting</artifactId>
+			<version>4.0.0</version>
+		</dependency>
 		
 		<!--Allure Dependency--> 
 	       <dependency>
